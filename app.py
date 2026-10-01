@@ -1,4 +1,1 @@
-servers = ["Web-Server", "Database-Server", "Backup-Server"]
-
-for x in servers:
-    print("Checking status for: " + x)
+print(this_is_an_error_variable_without_definition)
